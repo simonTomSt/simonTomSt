@@ -4,5 +4,5 @@
 
 - 💻 I’m currently working on <bold>personal full-stack projects</bold> 
 
-- 🕵 I'm currently I deepening my knowledge in Next.js, NestJS, Express.js, react-native
+- 🕵 I'm currently deepening my knowledge in Next.js, NestJS, Express.js, react-native
 
