@@ -3,6 +3,6 @@
 <br/>
 
 - 💻 I’m currently working on <bold>personal full-stack projects</bold> 
-<br/>
+
 - 🕵 I'm currently I deepening my knowledge in Next.js, NestJS, Express.js, react-native
 
